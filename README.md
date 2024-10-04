@@ -3,7 +3,9 @@
 The machine learning model that are responsible for recognizing users' voice and convert the text to audio.
 
 The datasets used for training are LJSpeech, SpeechRecognition, CTC Sequence Modeling and DeepSpeech 2
+
 The platform used for training is Google Colab with TPU accelerators
+
 Framework used for implementing the model and constructing the Neural Network Tensorflow with Kiras API
 
 - Speech to Text model: This model is responsible for converting users' voice queries into text to use the result as a search query to download pdf books from the web.
